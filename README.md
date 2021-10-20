@@ -40,9 +40,6 @@ let create = new ecpay_payment();
 let htm = create.payment_client.aio_check_out_all(parameters = base_param, invoice = inv_params);
 ```
 
-## License
-MIT
-
 
 [npm-image]: https://img.shields.io/badge/npm-v1.1.1-blue.svg
 [npm-url]: https://www.npmjs.com/package/imgur-module
