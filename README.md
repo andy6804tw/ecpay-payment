@@ -1,5 +1,4 @@
 [![NPM version][npm-image]][npm-url] 
-[![GitHub license][license-image]][license-url]
 # 綠界全方位(All In One)金流介接模組
 
 ## Module Usage
@@ -44,5 +43,3 @@ let htm = create.payment_client.aio_check_out_all(parameters = base_param, invoi
 [npm-image]: https://img.shields.io/badge/npm-v1.1.1-blue.svg
 [npm-url]: https://www.npmjs.com/package/imgur-module
 
-[license-image]: https://img.shields.io/npm/l/express.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com
-[license-url]: https://github.com/andy6804tw/imgur-module/blob/master/LICENSE
